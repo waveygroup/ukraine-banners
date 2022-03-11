@@ -8,7 +8,7 @@ var UKRAINE = UKRAINE || (function(){
             const styleSheet = document.createElement('link')
             styleSheet.rel = 'stylesheet'
             styleSheet.type = 'text/css'
-            styleSheet.href = 'ukraine.css'
+            styleSheet.href = 'https://ukraine.wavey.group/ukraine.min.css'
             head.appendChild(styleSheet)
         },
 
