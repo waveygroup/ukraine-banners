@@ -1,0 +1,43 @@
+.ukb {
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: 5px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(0deg, rgba(255,213,0,1) 0%, rgba(255,213,0,1) 47%, rgba(0,91,187,1) 47%, rgba(0,91,187,1) 100%);
+}
+
+.ukb-light {
+    color: #0f172a;
+    background: #f1f5f9;
+}
+
+.ukb-dark {
+    background: #0f172a;
+    color: #f1f5f9;
+}
+
+.ukb-bottom-right {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.ukb-bottom-left {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.ukb-top-right {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.ukb-top-left {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
