@@ -1,25 +1,6 @@
 <p align="center">
-  <a href="https://wavey.group/packages/sweetalert">
-    <img alt="Sweetalerts" src="https://i.imgur.com/UVnxkCl.png">
-  </a>
-  <br>
-  <a href="https://img.shields.io/packagist/v/wavey/sweetalert">
-    <img src="https://img.shields.io/packagist/v/wavey/sweetalert">
-  </a>
-  <a href="https://img.shields.io/github/checks-status/waveygroup/sweetalert/master">
-    <img src="https://img.shields.io/github/checks-status/waveygroup/sweetalert/master">
-  </a>
-<a href="https://img.shields.io/packagist/stars/wavey/sweetalert">
-    <img src="https://img.shields.io/packagist/stars/wavey/sweetalert">
-  </a>
-  <a href="https://img.shields.io/github/issues/waveygroup/sweetalert">
-    <img src="https://img.shields.io/github/issues/waveygroup/sweetalert">
-  </a>
-    <a href="https://img.shields.io/packagist/dependency-v/wavey/sweetalert/php">
-    <img src="https://img.shields.io/packagist/dependency-v/wavey/sweetalert/php">
-  </a>
-      <a href="https://img.shields.io/github/license/waveygroup/sweetalert">
-    <img src="https://img.shields.io/github/license/waveygroup/sweetalert">
+  <a href="https://wavey.group/packages/ukraine-banners">
+    <img alt="Ukraine Banners" src="https://i.imgur.com/OJ2cnCq.png">
   </a>
 </p>
 <p align="center">
