@@ -1,5 +1,5 @@
-var UKRAINE = UKRAINE || (function(){
-    var _args = {};
+let UKRAINE = UKRAINE || (function(){
+    let _args = {};
 
     return {
         init : function(Args) {
